@@ -19,7 +19,6 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"測試git");
-    NSLog(@"測試git234");
 }
 
 
