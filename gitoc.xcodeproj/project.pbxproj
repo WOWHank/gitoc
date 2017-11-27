@@ -13,6 +13,7 @@
 		A6107ECC1FCBA0440000EA77 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A6107ECB1FCBA0440000EA77 /* Assets.xcassets */; };
 		A6107ECF1FCBA0440000EA77 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A6107ECD1FCBA0440000EA77 /* LaunchScreen.storyboard */; };
 		A6107ED21FCBA0440000EA77 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A6107ED11FCBA0440000EA77 /* main.m */; };
+		A6107EFC1FCBB8AA0000EA77 /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A6107EFB1FCBB8AA0000EA77 /* TestViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		A6107ECE1FCBA0440000EA77 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A6107ED01FCBA0440000EA77 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A6107ED11FCBA0440000EA77 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		A6107EFA1FCBB8AA0000EA77 /* TestViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestViewController.h; sourceTree = "<group>"; };
+		A6107EFB1FCBB8AA0000EA77 /* TestViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				A6107EC31FCBA0440000EA77 /* AppDelegate.m */,
 				A6107EC51FCBA0440000EA77 /* ViewController.h */,
 				A6107EC61FCBA0440000EA77 /* ViewController.m */,
+				A6107EFA1FCBB8AA0000EA77 /* TestViewController.h */,
+				A6107EFB1FCBB8AA0000EA77 /* TestViewController.m */,
 				A6107EC81FCBA0440000EA77 /* Main.storyboard */,
 				A6107ECB1FCBA0440000EA77 /* Assets.xcassets */,
 				A6107ECD1FCBA0440000EA77 /* LaunchScreen.storyboard */,
@@ -144,6 +149,7 @@
 			files = (
 				A6107EC71FCBA0440000EA77 /* ViewController.m in Sources */,
 				A6107ED21FCBA0440000EA77 /* main.m in Sources */,
+				A6107EFC1FCBB8AA0000EA77 /* TestViewController.m in Sources */,
 				A6107EC41FCBA0440000EA77 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
