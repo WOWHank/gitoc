@@ -19,7 +19,6 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"測試git");
-    NSLog(@"測試git234");
 }
 
 
@@ -27,6 +26,7 @@
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
     NSLog(@"測試git3");
+    NSLog(@"測試git4");
 }
 
 
